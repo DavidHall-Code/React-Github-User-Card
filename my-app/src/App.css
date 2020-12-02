@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.meCard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.userCard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.chart {
+  margin: 3% 0;
+}
+
+.displayInfo {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-right: 2%;
+  justify-content: center;
+}
