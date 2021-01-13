@@ -1,5 +1,4 @@
 import React from 'react';
-// import './Card.css';
 import 'semantic-ui-css/semantic.min.css';
 import {Card, Icon, Image} from 'semantic-ui-react';
 
